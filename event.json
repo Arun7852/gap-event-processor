@@ -1,0 +1,7 @@
+{
+  "event_id": "evt-1001",
+  "device_id": "sensor-42",
+  "event_type": "temperature_reading",
+  "temperature": 31.7,
+  "timestamp": "2026-10-02T13:30:00Z"
+}
